@@ -16,3 +16,4 @@ Http协议是一种基于“请求-响应”的协议，使用可靠的tcp连接
 ![image][image-1]
 
 [image-1]:	images/socket.jpg
+
